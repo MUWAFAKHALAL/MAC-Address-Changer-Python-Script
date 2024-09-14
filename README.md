@@ -6,11 +6,11 @@ This is a simple Python script that allows you to change the MAC address of your
 
 1. Clone the repository:
     ```bash
-    $ git clone https://github.com/HalilDeniz/MacMaster.git
+    $https://github.com/MUWAFAKHALAL/MAC-Address-Changer-Python-Script.git
     ```
 2. Navigate to the cloned directory:
    ```bash
-   cd MacMaster
+   cd MAC-Address-Changer-Python-Script
    ```
 2. Install the package:
     ```bash
