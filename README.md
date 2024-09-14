@@ -14,7 +14,7 @@ This is a simple Python script that allows you to change the MAC address of your
    ```
 2. Install the package:
     ```bash
-    $ python setup.py install
+    $ python MAC_add_changer_M.py install
     ```
 ## Arguments
 - `--interface`, `-i`: Specify the network interface to be used for MAC address operations.
