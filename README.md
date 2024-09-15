@@ -28,5 +28,5 @@ For any inquiries or more information, you can reach me through the following ch
 
 - LinkedIn  : https://www.linkedin.com/in/muwafak-halal/ {Muwafak Halal}
 - Instagram : https://www.instagram.com/muwafak_helal/  {Muwafak_helal}
-- YouTube   : https://www.youtube.com/@Muwafak.CyberSecurity-u3f
+- YouTube   : https://www.youtube.com/@CyberSec-h6vf
 - Email     : en.muwafakhalal205@gmail.com
